@@ -11,8 +11,4 @@
     <None Remove="Publish\**" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="dragino\" />
-  </ItemGroup>
-
 </Project>
